@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Link } from "react-router-dom";
-import { BookOpen, Users, CalendarClock, ArrowRight, CheckCircle2 } from "lucide-react";
+import { BookOpen, Users, CalendarClock, ArrowRight, CheckCircle2, Phone, Mail, MapPin, Clock } from "lucide-react";
 import ContactForm from "@/components/ContactForm";
 
 const Index = () => {
